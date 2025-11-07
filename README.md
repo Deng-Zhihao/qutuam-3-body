@@ -12,6 +12,7 @@
 ### 1. Quantum Phase Estimation
 ### 2. Variational Quantum Eigensolver
 ![](./VQE/fig_VQE.png/)
+![](./VQE/fig_VQE2.png/)
 ### 3. Quantum Krylov Subspace
 
 ## Reference
