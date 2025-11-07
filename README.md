@@ -14,5 +14,5 @@
 ### 3. Quantum Krylov Subspace
 
 ## Reference
-\[1]  \n
-\[2]  \n
+\[1]  <br />
+\[2]  <br />
