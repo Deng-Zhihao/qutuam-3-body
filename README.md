@@ -11,6 +11,7 @@
 ## Method and Results
 ### 1. Quantum Phase Estimation
 ### 2. Variational Quantum Eigensolver
+![](./VQE/fig_VQE.png/)
 ### 3. Quantum Krylov Subspace
 
 ## Reference
