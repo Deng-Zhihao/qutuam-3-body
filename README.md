@@ -1,4 +1,4 @@
-# qutuam-3-body
+# Ground State Optimizer for Nuclear Hamiltonian up to 3-body Interaction by Quantum Computing
 ## <Title>
 ## Team "Quantum-4-body" Members
 |Name|GitHub|Role|
