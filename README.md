@@ -2,7 +2,7 @@
 ## Team "Quantum-4-body" Members
 |Name|GitHub|Role|
 |:-:|:-:|:-:|
-|Ritsuki Ito|[@rit-3525](https://github.com/rit-3525)|-|
+|Ritsuki Ito|[@rit-3525](https://github.com/rit-3525)|Quantum Krulov Subspace|
 |Rei Takezawa|[@onagonanja](https://github.com/onagonanja)|-|
 |Zhihao Deng|[@Deng-Zhihao](https://github.com/Deng-Zhihao)|VQE code development|
 |Hideyuki Nishida|[@hnishida](https://github.com/hnishida)|-|
