@@ -4,9 +4,9 @@
 |:-:|:-:|:-:|
 |Ritsuki Ito|[@rit-3525](https://github.com/rit-3525)|-|
 |Rei Takezawa|[@onagonanja](https://github.com/onagonanja)|-|
-|Zhihao Deng|[@Deng-Zhihao](https://github.com/Deng-Zhihao)|-|
+|Zhihao Deng|[@Deng-Zhihao](https://github.com/Deng-Zhihao)|VQE code development|
 |Hideyuki Nishida|[@hnishida](https://github.com/hnishida)|-|
-|Yuto Morohoshi|-|-|
+|Yuto Morohoshi|-|Mentor|
 
 ## Method and Results
 ### 1. Quantum Phase Estimation
