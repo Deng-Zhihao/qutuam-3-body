@@ -8,6 +8,9 @@
 |Hideyuki Nishida|[@hnishida](https://github.com/hnishida)|-|
 |Yuto Morohoshi|-|Mentor|
 
+## Target
+Understanding the dynamics of nuclear is crucial for particle physics research. For simple nuclears, Hamiltonian including up to 2-body interactions is sufficient for simulating their dynamics. However, for larger nuclears, $\text{}^3H$ and $\text{}^4He$ for instance, including 2-body interactions only shows disperancy with experiment value. On the other hand, Hamiltonian including 3-body interactions agree with the experiment well. Classical computers usually struggle in simulation with 3-body Hamiltonian. Quantum computing can help in accelarating the calculation. In this research, we tried different quantum computing algorithms for simulating 3-body Hamiltonian.
+
 ## Method and Results
 ### 1. Quantum Phase Estimation
 ### 2. Variational Quantum Eigensolver
