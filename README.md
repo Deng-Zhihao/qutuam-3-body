@@ -17,10 +17,10 @@ Understanding nuclear dynamics is central to modern nuclear and particle physics
 <img width="3196" height="1797" alt="image" src="https://github.com/user-attachments/assets/db400609-7819-47d3-aab3-1ca5e221e9d6" />
 
 ### 2. Variational Quantum Eigensolver
-<img width="1920" height="1080" alt="image" src="./VQE/fig_VQE.png/" />
-<img width="1920" height="1080" alt="image" src="./VQE/fig_VQE2.png/" />
+<img width="600" height="600" alt="image" src="./VQE/fig_VQE.png/" />
+<img width="800" height="600" alt="image" src="./VQE/fig_VQE2.png/" />
 ### 3. Quantum Krylov Subspace
-![](./QKS/QKS_converge.png/)
+<img width="1920" height="1080" alt="image" src="./QKS/QKS_converge.png/" />
 
 ## Reference
 \[1] Steven C. Pieper, R. B. Wiringa, "Quantum Monte Carlo Calculations of Light Nuclei", [arXiv:nucl-th/0103005](https://arxiv.org/abs/nucl-th/0103005) <br />
