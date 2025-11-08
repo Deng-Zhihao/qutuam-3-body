@@ -6,7 +6,7 @@
 |Rei Takezawa|[@onagonanja](https://github.com/onagonanja)|QPE development|
 |Zhihao Deng|[@Deng-Zhihao](https://github.com/Deng-Zhihao)|VQE development|
 |Hideyuki Nishida|[@hnishida](https://github.com/hnishida)|QKS development|
-|Yuto Morohoshi|-|Mentor|
+|Yuto Morohoshi|[@YutoMorohoshi](https://github.com/YutoMorohoshi)|Mentor|
 
 ## Target
 Understanding nuclear dynamics is central to modern nuclear and particle physics. For the lightest systems, Hamiltonians with only two-body interactions often reproduce observed behavior. As nuclei grow—e.g., ³H and ⁴He—two-body models alone yield clear discrepancies with experiment, while adding irreducible three-body forces restores agreement. Unfortunately, faithfully treating three-body Hamiltonians strains classical computation because the Hilbert space and interaction terms scale steeply. Quantum computing offers a path forward: by natively representing quantum states and entanglement, it can reduce the cost of simulating realistic nuclear interactions. In this work, we benchmark several quantum algorithms for simulating three-body nuclear Hamiltonians and assess their accuracy, resource requirements, and prospects for near-term hardware.
