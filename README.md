@@ -20,5 +20,5 @@ Understanding nuclear dynamics is central to modern nuclear and particle physics
 ![](./QKS/QKS_converge.png/)
 
 ## Reference
-\[1]  <br />Steven C. Pieper, R. B. Wiringa, "Quantum Monte Carlo Calculations of Light Nuclei", arXiv:nucl-th/0103005
-\[2]  <br />J. Carlson et al., "Quantum Monte Carlo methods for nuclear physics", arXiv:1412.3081
+\[1] Steven C. Pieper, R. B. Wiringa, "Quantum Monte Carlo Calculations of Light Nuclei", (arXiv:nucl-th/0103005)[https://arxiv.org/abs/nucl-th/0103005] <br />
+\[2] J. Carlson et al., "Quantum Monte Carlo methods for nuclear physics", (arXiv:1412.3081)[https://arxiv.org/abs/1412.3081] <br />
