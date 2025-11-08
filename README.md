@@ -1,4 +1,4 @@
-# Ground State Optimizer for Nuclear Hamiltonian up to 3-body Interaction by Quantum Computing
+# Ground State Solver for Nuclei Hamiltonian up to 3-body Interactions by Quantum Computing
 ## Team "Quantum-4-body" Members
 |Name|GitHub|Role|
 |:-:|:-:|:-:|
