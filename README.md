@@ -13,7 +13,7 @@ Understanding nuclear dynamics is central to modern nuclear and particle physics
 
 ## Method and Results
 ### 1. Quantum Phase Estimation
-<img width="3195" height="2217" alt="image" src="https://github.com/user-attachments/assets/ca40a096-9185-4c1d-b940-41e5fb789bb6" />
+<img width="3055" height="1914" alt="image" src="https://github.com/user-attachments/assets/a8ca3999-2333-4482-956d-ef68694a632e" />
 <img width="3196" height="1797" alt="image" src="https://github.com/user-attachments/assets/db400609-7819-47d3-aab3-1ca5e221e9d6" />
 
 ### 2. Variational Quantum Eigensolver
