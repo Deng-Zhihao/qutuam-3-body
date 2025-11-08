@@ -19,6 +19,7 @@ Understanding nuclear dynamics is central to modern nuclear and particle physics
 ### 2. Variational Quantum Eigensolver
 <img width="600" height="600" alt="image" src="./VQE/fig_VQE.png/" />
 <img width="800" height="600" alt="image" src="./VQE/fig_VQE2.png/" />
+
 ### 3. Quantum Krylov Subspace
 <img width="1920" height="1080" alt="image" src="./QKS/QKS_converge.png/" />
 
