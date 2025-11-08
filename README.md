@@ -9,7 +9,7 @@
 |Yuto Morohoshi|-|Mentor|
 
 ## Target
-Understanding the dynamics of nuclear is crucial for particle physics research. For simple nuclears, Hamiltonian including up to 2-body interactions is sufficient for simulating their dynamics. However, for larger nuclears, $\text{}^3H$ and $\text{}^4He$ for instance, including 2-body interactions only shows disperancy with experiment value. On the other hand, Hamiltonian including 3-body interactions agree with the experiment well. Classical computers usually struggle in simulation with 3-body Hamiltonian. Quantum computing can help in accelarating the calculation. In this research, we tried different quantum computing algorithms for simulating 3-body Hamiltonian.
+Understanding nuclear dynamics is central to modern nuclear and particle physics. For the lightest systems, Hamiltonians with only two-body interactions often reproduce observed behavior. As nuclei grow—e.g., ³H and ⁴He—two-body models alone yield clear discrepancies with experiment, while adding irreducible three-body forces restores agreement. Unfortunately, faithfully treating three-body Hamiltonians strains classical computation because the Hilbert space and interaction terms scale steeply. Quantum computing offers a path forward: by natively representing quantum states and entanglement, it can reduce the cost of simulating realistic nuclear interactions. In this work, we benchmark several quantum algorithms for simulating three-body nuclear Hamiltonians and assess their accuracy, resource requirements, and prospects for near-term hardware.
 
 ## Method and Results
 ### 1. Quantum Phase Estimation
