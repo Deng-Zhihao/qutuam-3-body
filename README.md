@@ -18,5 +18,4 @@
 
 ## Reference
 \[1]  <br />Steven C. Pieper, R. B. Wiringa, "Quantum Monte Carlo Calculations of Light Nuclei", arXiv:nucl-th/0103005
-
 \[2]  <br />J. Carlson et al., "Quantum Monte Carlo methods for nuclear physics", arXiv:1412.3081
